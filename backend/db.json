@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC Preta",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Caneta BIC Preta",
+      "price": 5000.89
+    },
+    {
+      "name": "produto de teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "produto de teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Escova",
+      "price": 200.57,
+      "id": 6
+    },
+    {
+      "name": "Escova",
+      "price": 200.57,
+      "id": 7
+    }
+  ]
+}
