@@ -1,13 +1,20 @@
-table{
-    width: 40%;
+
+.mat-card{
+    align-items: center;
 }
+
+table{
+    width: 100%;
+    margin: 0 auto;
+}
+
 
 .edit {
     margin-right: 1.2rem;
 }
 
 .edit > i{
-    color: #d9cd26;
+    color: #0F9B05;
 }
 .delete > i{
     color: #e35e6b;

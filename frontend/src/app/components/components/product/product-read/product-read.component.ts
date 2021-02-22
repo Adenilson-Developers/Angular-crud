@@ -9,7 +9,7 @@ import { ProductService } from '../product.service';
 })
 export class ProductReadComponent implements OnInit {
 
-  products!: Product[]
+  products!: Array<Product>;
   displayedColumns = ['id', 'name', 'price', 'action']
 
 
