@@ -33,7 +33,10 @@
     {
       "name": "Escova",
       "price": 200.57,
-      "id": 7
+      "id": 7,
+      "valor": "valor a pagar",
+      "descricao": "Parcela1, nome: Adenilson brito dos santos santos santos"
     }
+  
   ]
 }
